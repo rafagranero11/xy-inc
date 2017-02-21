@@ -2,19 +2,19 @@
 
 AMBIENTE UTLIZADO NESTE PROJETO 
 
-                    S.O. - Linux Mint 17 (https://www.linuxmint.com/download.php)
-              PLATAFORMA - Java 8 (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-                     IDE - Spring Tools Suite (https://spring.io/tools/sts/all)
-               FRAMEWORK - Spring (Spring Boot, Spring Data JPA)
-          BANCO DE DADOS - mySql
-				 
-				           sudo apt-get update && sudo apt-get upgrade
+                    	S.O. - Linux Mint 17 (https://www.linuxmint.com/download.php)
+              	  PLATAFORMA - Java 8 (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+                         IDE - Spring Tools Suite (https://spring.io/tools/sts/all)
+                   FRAMEWORK - Spring (Spring Boot, Spring Data JPA)
+              BANCO DE DADOS - mySql
+			 	 
+			  		           sudo apt-get update && sudo apt-get upgrade
 
-				           sudo apt-get install mysql-server-5.7 (Lembre-se de setar a senha do usuario root tambem como "root", pois é a mesma configurada na aplicação)
+					           sudo apt-get install mysql-server-5.7 (Lembre-se de setar a senha do usuario root tambem como "root", pois é a mesma configurada na aplicação)
 
-CLIENT DE BANCO DE DADOS - mySql workbench 			 
+	CLIENT DE BANCO DE DADOS - mySql workbench 			 
 
-				           sudo apt-get install mysql-workbench
+					           sudo apt-get install mysql-workbench
 
 
 PRÉ-REQUISITOS PARA EXECUÇÃO DO PROJETO
