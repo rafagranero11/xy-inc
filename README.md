@@ -17,7 +17,7 @@ CLIENT DE BANCO DE DADOS - mySql workbench
 				           sudo apt-get install mysql-workbench
 
 
-2.PRÉ-REQUISITOS PARA EXECUÇÃO DO PROJETO
+2. PRÉ-REQUISITOS PARA EXECUÇÃO DO PROJETO
 
 	Com o ambiente devidamente configurado abra o mySql workbench e se autentique com as credenciais abaixo.
     		user: root
@@ -49,4 +49,4 @@ CLIENT DE BANCO DE DADOS - mySql workbench
 
 	POST - http://localhost:8080/poi/save?nomePoi=TesteRafael&coordenadaX=39&coordenadaY=45 - Salva um novo POI na base de dados.
 
-	GET - http://localhost:8080/poi/findByCoordinates?coordenadaX=20&coordenadaY=10&metros=10 - Busca os Pois baseado em uma coordenada x,y e 	uma distância em metros.
+	GET - http://localhost:8080/poi/findByCoordinates?coordenadaX=20&coordenadaY=10&metros=10 - Busca os Pois baseado em uma coordenada x,y e 		uma distância em metros.
