@@ -1,6 +1,6 @@
 # xy-inc
 
-1. AMBIENTE UTLIZADO NESTE PROJETO 
+AMBIENTE UTLIZADO NESTE PROJETO 
 
                     S.O. - Linux Mint 17 (https://www.linuxmint.com/download.php)
               PLATAFORMA - Java 8 (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
@@ -17,7 +17,7 @@ CLIENT DE BANCO DE DADOS - mySql workbench
 				           sudo apt-get install mysql-workbench
 
 
-2. PRÉ-REQUISITOS PARA EXECUÇÃO DO PROJETO
+PRÉ-REQUISITOS PARA EXECUÇÃO DO PROJETO
 
 	Com o ambiente devidamente configurado abra o mySql workbench e se autentique com as credenciais abaixo.
     		user: root
@@ -39,7 +39,7 @@ CLIENT DE BANCO DE DADOS - mySql workbench
     Após a atualização das dependencias rode o projeto
     	Clique com o botão direito sobre o projeto > Run As > Spring Boot App
 
-3. TESTES
+TESTES
 
 	Utilize as Urls apaixo como exemplo para testar em qualquer client HTTP ou navegador.    	
 
