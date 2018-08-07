@@ -33,6 +33,11 @@ public class PoiController {
 			
 			list = poiRepository.findAll();
 			
+			if(list.isEmpty()) {
+				return new ResponseEntity<>(HttpStatus.NOT_FOUND);
+			}
+		
+			
 		}catch (Exception e) {
 			e.printStackTrace();
 			return new ResponseEntity<>(HttpStatus.INTERNAL_SERVER_ERROR);
